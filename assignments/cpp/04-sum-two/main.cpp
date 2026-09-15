@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-    // Write your solution here.
+   int o1,t2;
+    cin >> o1 >> t2;
+    cout << o1+t2;
     return 0;
 }
