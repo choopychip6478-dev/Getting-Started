@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-int main() {
-    // Write your solution here.
+int main () {
+    cout << "moo";
     return 0;
 }
